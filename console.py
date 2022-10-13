@@ -6,7 +6,6 @@ import cmd
 import models
 import re
 
-
 class HBNBCommand(cmd.Cmd):
     """Console"""
     prompt = "(hbnb) "
